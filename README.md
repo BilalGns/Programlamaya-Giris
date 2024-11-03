@@ -20,5 +20,5 @@ Bu repo, programlamaya yeni başlayanlar için C dilinde problem çözmeyi öğr
 ### Repoyu Klonlama
 
 ```bash
-git clone https://github.com/kullaniciadi/programlamaya-giris-c-ornekleri.git
-cd programlamaya-giris-c-ornekleri
+git clone https://github.com/BilalGns/Programlamaya-Giris.git
+cd Programlamaya-Giris
