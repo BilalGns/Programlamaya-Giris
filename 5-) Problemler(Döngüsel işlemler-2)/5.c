@@ -10,8 +10,8 @@ int main() {
     scanf("%d", &number);
     
     while (number > 0) {
-        int basamak = number % 10;
-        reverse = reverse * 10 + basamak; 
+        int digit = number % 10;
+        reverse = reverse * 10 + digit; 
         number /= 10; 
     }
     
